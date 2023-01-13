@@ -10,9 +10,6 @@
 
 <hr>
 
-
->Resultado do projeto-criado uma criando uma landing page responsiva
-
 ### Ajustes e melhorias
 
 O Projeto foi desenvolvido com as Tecnologia e voltadas nas seguintes Tarefas:
@@ -50,7 +47,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
   </tr>
 </table>
- check application <a href="https://wandersondefariasprogramador.github.io/Criando-uma-LandingPage-Responsiva/">HERE!</a>
+ check application <a href="https://wandersondefariasprogramador.github.io/Site-de-uma-loja/">HERE!</a>
 
 
 
